@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on frontend projects based on react or next.
 - 🤔 I’m looking for help with how to get started with a full stack project
 - 💬 Ask me about anything, I love meeting new people!
-- 📫 How to reach me: sayansengupta169@gmail.com
+- 📫 How to reach me: [sayansengupta169@gmail.com](https://sayan-dev.netlify.app/)
 - ⚡ Fun fact: I am biased for people who loves gaming and coding!
 
