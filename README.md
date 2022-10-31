@@ -2,7 +2,7 @@
 
 # I am Sayan! looking for a job in the frontend or backend field.
 
-- 🔭 I’m currently a fresher going through career transition.
+- 🔭 I’m currently working as subject matter expert.
 - 🌱 I’m currently learning React.js, Node.js, and MySql
 - 👯 I’m looking to collaborate on frontend projects based on react or next.
 - 🤔 I’m looking for help with how to get started with a full stack project
