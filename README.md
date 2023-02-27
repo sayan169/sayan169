@@ -8,4 +8,9 @@
 - 📫 [Get in touch with me!](https://sayan-dev.netlify.app/)
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
+![HTML5](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
+![CSS3](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
+![React.js](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
+![Bootstrap 5](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
+![NPM](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
 
