@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-# I am Sayan! looking for a job in the frontend or backend field.
+# I am Sayan! looking for a job as a frontend developer.
 
-- 🔭 I’m currently working as subject matter expert.
-- 🌱 I’m currently learning React.js, Node.js, and MySql
-- 👯 I’m looking to collaborate on frontend projects based on react or next.
-- 🤔 I’m looking for help with how to get started with a full stack project
-- 💬 Ask me about anything, I love meeting new people!
+- 🔭 I’m currently looking to collaborate on open source projects.
+- 🌱 I’m currently learning React.js.
+- 🤔 I’m currently looking for a mentor to help me start with freelancing and help me improve in frontend development. 
 - 📫 [Get in touch with me!](https://sayan-dev.netlify.app/)
-- ⚡ Fun fact: I am biased for people who loves gaming and coding!
 
