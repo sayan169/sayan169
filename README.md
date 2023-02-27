@@ -13,4 +13,5 @@
 ![React.js](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
 ![Bootstrap 5](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
 ![NPM](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
+![Netlify](https://img.shields.io/badge/language%20or%20framework%20name-<color>-<logo.svg>)
 
