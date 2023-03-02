@@ -17,7 +17,8 @@
 - 🌱 I’m currently learning React.js.
 - 🤔 I’m currently looking for a mentor to help me start with freelancing and help me improve in frontend development. 
 - 📫 [Get in touch with me!](https://sayan-dev.netlify.app/)
-- 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width = "60" height = "60" />
