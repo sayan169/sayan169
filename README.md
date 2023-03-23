@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am Sayan! looking for a job as a frontend developer.
+# I am Sayan! I like to code as a hobby and love learning new tehnologies in web development!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
